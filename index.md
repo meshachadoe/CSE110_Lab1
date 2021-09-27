@@ -1,9 +1,7 @@
-# Meshach Adoe
+# Meshach Adoe <!-- omit in toc -->
 ## Junior CSE Major at UCSD
 
 Table of Contents
-- [Meshach Adoe](#meshach-adoe)
-  - [Junior CSE Major at UCSD](#junior-cse-major-at-ucsd)
 - [About Me](#about-me)
   - [Programmer Journey](#programmer-journey)
   - [My Interests & Hobbies](#my-interests--hobbies)
@@ -39,9 +37,9 @@ In my spare time, I enjoy watching science fiction movies and TV shows, with one
 > – Supreme Chancellor/Emperor Palpatine/Darth Sidious
 
 Some shows that I am planning to watch are
-- [ ] **Ted Lasso Season 2**
-- [ ] Star Wars Visions
-- [ ] Hacks
+[ ] Ted Lasso Season 2
+[ ] Star Wars Visions
+[ ] Hacks
 
 Other TV Shows that I am currently watching or have watched recently are (those I am currently watching are italicized)
 - *Foundation*
